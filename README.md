@@ -24,7 +24,7 @@ Dependence of thermodynamic properties of an ideal gas as a function of shape co
 ![thermodynamic properties](https://github.com/EstebanM-98/University_codes/blob/main/Images/square_rotat.png)
 
 - 2D Ising model
-![heat_capacity](https://github.com/EstebanM-98/University_codes/blob/main/Images/Heat_capacity_ferro.png)
+![heat_capacity_ferro](https://github.com/EstebanM-98/University_codes/blob/main/Images/Heat_capacity_ferro.png)
 
 - Metropolis algorithm: Simulating ferromagnetic substances
 ![snapshots](https://github.com/EstebanM-98/University_codes/blob/main/Images/snapshots.png)
