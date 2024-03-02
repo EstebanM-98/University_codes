@@ -13,8 +13,8 @@ This repository contains all the code I have been working on since I was an unde
 
 - Bose-Einstein condensate.
 - Shape effects on the thermodynamic properties of the systems.
-![aa](https://github.com/EstebanM-98/University_codes/blob/main/Images/rotation.png)
-![aa][(https://github.com/EstebanM-98/University_codes/blob/main/Images/rotation.png](https://github.com/EstebanM-98/University_codes/blob/main/Images /square_rotat.png))
+![density](https://github.com/EstebanM-98/University_codes/blob/main/Images/rotation.png)
+![thermodynamic properties](https://github.com/EstebanM-98/University_codes/blob/main/Images/square_rotat.png)
   
 
 The notebooks still do not have an orderly structure, but I hope to make them more accessible to the general public.
