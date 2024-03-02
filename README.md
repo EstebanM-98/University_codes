@@ -3,7 +3,7 @@ Este es un repositorio que contiene todos los codigos que he venido trabajando d
 
 # Cristales Fotonicos.
 <center>
-<img src="![image](https://github.com/EstebanM-98/University_codes/assets/70489292/d2fae426-f979-4780-af3b-26a4b41176ca)" style="width:300px;height:300px;">
+<img src="https://drive.google.com/drive/u/0/folders/1AJtUX2VqdXMs7GdALzu1ydB2TX4bKGbn" style="width:300px;height:300px;">
 </center>
 <center>
 <p><i>Geometría cúbica</i></p>
