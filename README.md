@@ -1,20 +1,20 @@
-# University_codes
-Este es un repositorio que contiene todos los codigos que he venido trabajando desde que era un estudiante de pregrado en física. El proposito de este repositorio es compartir con la comunidad y dejar un consolidad de simulaciones de física en diferentes temas:
+# Computational physics
+This repository contains all the code I have been working on since I was an undergraduate physics student. The purpose of this repository is to share with the community and leave a consolidation of physics simulations on different topics:
 
-# Cristales Fotonicos.
+# Photonic Crystals.
 
-# Optica no lineal.
+# Nonlinear optics.
 
-- Simulación de supercontinuo.
+- Supercontinuum simulation.
 
-- Simulación de pulsos en cavidades laseres.
+- Simulation of pulses in laser cavities.
 
-# Física estadisitica.
+# Statistical physics.
 
-- Condensado de Bose Einstein.
-- Efectos de forma en las propiedades termodinamicas de los sistemas.
-![aa](https://github.com/EstebanM-98/University_codes/blob/main/Images/rotation.png)
-
+- Bose-Einstein condensate.
+- Shape effects on the thermodynamic properties of the systems.
+![density](https://github.com/EstebanM-98/University_codes/blob/main/Images/rotation.png)
+![thermodynamic properties](https://github.com/EstebanM-98/University_codes/blob/main/Images/square_rotat.png)
   
 
-Los notebooks aun no cuentan con una estructura ordenada, espero prontamente hacerlo más accesible para el publico general.
+The notebooks still do not have an orderly structure, but I hope to make them more accessible to the general public.
