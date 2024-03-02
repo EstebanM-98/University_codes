@@ -13,7 +13,7 @@ Este es un repositorio que contiene todos los codigos que he venido trabajando d
 
 - Condensado de Bose Einstein.
 - Efectos de forma en las propiedades termodinamicas de los sistemas.
-![Descripción de la imagen](https://drive.google.com/file/d/15dGMMRns9-AhPJbEG-wjayNrAcnZeC8s/view?usp=sharing)
+![aa](https://drive.google.com/file/d/15dGMMRns9-AhPJbEG-wjayNrAcnZeC8s/view?usp=sharing)
 
   
 
