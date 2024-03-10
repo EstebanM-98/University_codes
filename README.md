@@ -18,14 +18,28 @@ I am solving the Ginzburg Landau equation numerically and propagating through a 
 
 # Statistical physics.
 
-- Bose-Einstein condensate.
-Computing basic properties of Bose-Einstein condensate
-![bose](https://github.com/EstebanM-98/University_codes/blob/main/Images/heat_capacity.png)
-
 - Shape effects on the thermodynamic properties of the systems.
 Dependence of thermodynamic properties of an ideal gas as a function of shape confinement.
 ![density](https://github.com/EstebanM-98/University_codes/blob/main/Images/rotation.png)
 ![thermodynamic properties](https://github.com/EstebanM-98/University_codes/blob/main/Images/square_rotat.png)
+
+- 2D Ising model
+Simulating basic thermodynamics properties of 2D Ising model.
+![heat_capacity_ferro](https://github.com/EstebanM-98/University_codes/blob/main/Images/Heat_capacity_ferro.png)
+
+- Metropolis algorithm: Simulating ferromagnetic substances
+![snapshots](https://github.com/EstebanM-98/University_codes/blob/main/Images/snapshots.png)
+  
+  
+- Bose-Einstein condensate.
+Computing basic properties of Bose-Einstein condensate
+![bose](https://github.com/EstebanM-98/University_codes/blob/main/Images/heat_capacity.png)
+
+# Statistics.
+
+- I propose a new probability distribution.
+
+![statistics](https://github.com/EstebanM-98/University_codes/blob/main/Images/distribution.png)
   
 
 The notebooks still do not have an orderly structure, but I hope to make them more accessible to the general public.
