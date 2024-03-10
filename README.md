@@ -13,8 +13,12 @@ Solving numerically Ginzburg Landau equation and propagate through an optical fi
 ![pulse](https://github.com/EstebanM-98/University_codes/blob/main/Images/pulse_fiber.png)
 
 - Simulation of pulses in laser cavities.
-I am solving the Ginzburg Landau equation numerically and propagating through a cavity composed of an Erbium-doped fiber, graphene, and single-mode fiber.
+We solve eGinzburg Landau equation numerically and propagate random uniform noise through a cavity composed of an Erbium-doped fiber, graphene, and single-mode fiber. We study
+the formation of the pulse for different cross section function for Erbium.
 ![laser](https://github.com/EstebanM-98/University_codes/blob/main/Images/dual.png)
+
+![laser](https://github.com/EstebanM-98/University_codes/blob/main/Images/dual_band.png)
+
 
 # Statistical physics.
 
